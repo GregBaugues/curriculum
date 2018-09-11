@@ -3,19 +3,17 @@
 ### Projected Time
 30-45 minutes
 
-
 ### Prerequisites
 Here are links to lessons that should be completed before this lesson.
 - [Git version control](version-control/git-version-control/git-version-control.md)
 
-
 ### Motivation
-At some point in our careers, every one of us will need to ask others for feedback, connections, or support. The more you can build and manage your network, the better able you'll be to achieve your goals. With the right strategies, networking can be enjoyable and advantageous.
+At some point in our careers, every one of us will need to ask others for feedback, connections, or support. The more you can build and manage your network, the better able you'll be to achieve your goals. With the right strategies, networking can be enjoyable and advantageous. 
 
 ### Objectives
 **Apprentices will be able to:**
-- Things
-- More things
+- Have a conversation with approxmimately anyone, and have them feel that it was the best converastion they had all day. 
+- Use introductions as a form of currency. 
 - Even more things
 - Even more things
 
@@ -33,11 +31,12 @@ At some point in our careers, every one of us will need to ask others for feedba
 	- Say, “Let’s mingle some more,” and walk away. 
 	- Say, “I see someone I need to talk to.” 
 - [The Double Opt-In Intro](https://qz.com/457699/youre-probably-doing-email-introductions-wrong/)
+- How to have a conversation with someone and get them to do 80% of the talking. You'll accomplish this mostly via active listening and asking questions. 
 
 ### Materials
 
-- [This website](example.com)
-- [This other website](otherexample.com)
+- [How to Win Friends and Influence People](https://www.amazon.com/dp/B0777RJS2J/ref=dp-kindle-redirect). Please forgive the terrible name of this book. It was written in a difference era. Warren Buffet said one of the most important days in his life was when he read this book. It is an easy-to-read manual on human interaction. Conversation, like programming, is a skill. It can be learned. It can be practiced. It can be modeled. This quick read will give you tools and a strategy for having better conversations and building better relationships with people. 
+- [Never Eat Alone](https://www.amazon.com/dp/B00H6JBFOS/ref=dp-kindle-redirect). 
 
 ### Lesson
 
@@ -55,7 +54,7 @@ Make sure to mention these things:
 
 ### Common Mistakes / Misconceptions
 
-This is something that apprentices might not realize or might assume at first.
+People often assume that in order to have a conversation that the other person finds interesting, that you need to say interesting things. In reality, there is one topic that nearly everyone finds most intersting: themselves. The trick to having conversations that other people find intersting is to give them permission to talk about themselves. There is nothing that you can talk about that will be more intersting to them than that. Ask lots of questions. Ask about how they feel. Give them permission to talk about things that no one else wants to hear about. You can say approximately nothing, you can let the other person talk for 27 minutes in a 30 minute conversation, and they will think that was the most intersting converastion they've had all day. (Hattip to "How to Win Friends and Influence People" for this advice). 
 
 Make sure they avoid this: thing
 
